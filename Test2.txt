@@ -1,7 +1,13 @@
 1. JDK is java development kit, wich contains the libraries required for java programming. 
 JVM is the Java Virtual Machine on which the java program is written. 
 JRE is the Java Runtime Environment which helps in compilation of the java program by converting program to bytecode.
-2.
+2. Features of Java:
+a. Simple 
+b. Object-Oriented
+c. Platform Independent 
+d. Portable
+e. Secure
+f. Multi Threading
 3. class ClassName{
 		//class body
 			}
