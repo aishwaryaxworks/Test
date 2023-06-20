@@ -1,0 +1,54 @@
+1. JDK is java development kit, wich contains the libraries required for java programming. 
+JVM is the Java Virtual Machine on which the java program is written. 
+JRE is the Java Runtime Environment which helps in compilation of the java program by converting program to bytecode.
+2.
+3. class ClassName{
+		//class body
+			}
+4. class ClassName{
+	public datatype instanceReferenceName;
+		}
+5. class ClassName{
+	datatype[] referenceName;
+	
+	for (int i=0; i<=referenceName-1; i++){
+			System.out.println(+referenceName[i]);
+	}
+}
+
+We declare an index variable "i" and initialize it to 0. We then compare the index i with the indicies of the 
+array we have considered. Depending on the conditions, after task is performed, the index i is iterated.
+
+6. Logical operators: 
+a. AND operator - is true when both of the operators are true.
+b. OR operator - is true when any one of the operators are true.
+c. NOT operator - is true when the operator dont match with each other.
+
+7. Class is a blue print of an object which describes the properties and functions of that object.
+
+8. Object is an instance of a class. Anything in real time, which has identity, existance and certain 
+properties is an object.
+
+9. Types of variables:
+a. Static varaibles - has only one copy of values throughout the program.
+b. Instance variables - the values can be changed based on the requirement of each method it is used in.
+c. Local variables - they have a scope that it is available only within the method in which it is declared in.
+
+11. Method overloading - Methods having same name but different list of parameters.
+12. Method Chaining - calling one method inside another but declaring and initialising it outside that method 
+is called method chaining.
+13. class ClassName{
+		
+		accessSpecifier ClassName(parameters){
+		}
+}
+
+14. Constructor is a default method that is called as soon as the class is called. It has the same name as the 
+class and does not have a return type. Types of constructors :
+a. Default constructor - called as soon as the class is called without intervention of user.
+b. No argument constructor - same as default constructor but is modified by the user.
+c. parameterized constructor - has a list of parameters that define the functions of the constructor.
+
+15. Default constructor is called by default when a class is called. It does not need to be called by the user 
+separately.
+No argument Constructor does not have any arguments but its functions are modified by the user.
